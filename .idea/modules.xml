@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/egoumall-common/egoumall-common.iml" filepath="$PROJECT_DIR$/egoumall-common/egoumall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-common/egoumall-common-dao/egoumall-common-dao.iml" filepath="$PROJECT_DIR$/egoumall-common/egoumall-common-dao/egoumall-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-common/egoumall-common-pojo/egoumall-common-pojo.iml" filepath="$PROJECT_DIR$/egoumall-common/egoumall-common-pojo/egoumall-common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-common/egoumall-common-utils/egoumall-common-utils.iml" filepath="$PROJECT_DIR$/egoumall-common/egoumall-common-utils/egoumall-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-content/egoumall-content.iml" filepath="$PROJECT_DIR$/egoumall-content/egoumall-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-content/egoumall-content-interface/egoumall-content-interface.iml" filepath="$PROJECT_DIR$/egoumall-content/egoumall-content-interface/egoumall-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-content/egoumall-content-service/egoumall-content-service.iml" filepath="$PROJECT_DIR$/egoumall-content/egoumall-content-service/egoumall-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-manager/egoumall-manager.iml" filepath="$PROJECT_DIR$/egoumall-manager/egoumall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-manager/egoumall-manager-interface/egoumall-manager-interface.iml" filepath="$PROJECT_DIR$/egoumall-manager/egoumall-manager-interface/egoumall-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-manager/egoumall-manager-service/egoumall-manager-service.iml" filepath="$PROJECT_DIR$/egoumall-manager/egoumall-manager-service/egoumall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-manager-web/egoumall-manager-web.iml" filepath="$PROJECT_DIR$/egoumall-manager-web/egoumall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-parent/egoumall-parent.iml" filepath="$PROJECT_DIR$/egoumall-parent/egoumall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoumall-portal-web/egoumall-portal-web.iml" filepath="$PROJECT_DIR$/egoumall-portal-web/egoumall-portal-web.iml" />
+    </modules>
+  </component>
+</project>

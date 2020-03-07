@@ -1,0 +1,3 @@
+com\egoumall\manager\service\impl\ItemServiceImpl.class
+com\egoumall\manager\service\impl\ItemCatServiceImpl.class
+com\egoumall\manager\service\impl\ItemParamServiceImpl.class

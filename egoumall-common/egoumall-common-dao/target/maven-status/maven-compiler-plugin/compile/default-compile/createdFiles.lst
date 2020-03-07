@@ -1,0 +1,11 @@
+com\egoumall\common\mapper\UserMapper.class
+com\egoumall\common\mapper\ItemCatMapper.class
+com\egoumall\common\mapper\OrderMapper.class
+com\egoumall\common\mapper\OrderItemMapper.class
+com\egoumall\common\mapper\ContentMapper.class
+com\egoumall\common\mapper\ItemDescMapper.class
+com\egoumall\common\mapper\ItemParamItemMapper.class
+com\egoumall\common\mapper\ItemParamMapper.class
+com\egoumall\common\mapper\OrderShoppingMapper.class
+com\egoumall\common\mapper\ContentCategoryMapper.class
+com\egoumall\common\mapper\ItemMapper.class

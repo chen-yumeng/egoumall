@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="egoumall-content-service:war">
+    <output-path>$PROJECT_DIR$/egoumall-content/egoumall-content-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>egoumall-content-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="egoumall-content-service.war">
+      <element id="artifact" artifact-name="egoumall-content-service:war exploded" />
+    </root>
+  </artifact>
+</component>

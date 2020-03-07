@@ -1,0 +1,7 @@
+com\egoumall\manager\controller\ContentController.class
+com\egoumall\manager\controller\PictureController.class
+com\egoumall\manager\controller\ItemController.class
+com\egoumall\manager\controller\ItemParamController.class
+com\egoumall\manager\controller\PageController.class
+com\egoumall\manager\controller\ContentCategoryController.class
+com\egoumall\manager\controller\ItemCatController.class

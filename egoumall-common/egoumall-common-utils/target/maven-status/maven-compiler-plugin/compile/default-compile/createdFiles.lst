@@ -1,0 +1,4 @@
+com\egoumall\common\utils\EgouResult.class
+com\egoumall\common\utils\FastDFSClient.class
+com\egoumall\common\utils\IDUtils.class
+com\egoumall\common\utils\JsonUtils.class

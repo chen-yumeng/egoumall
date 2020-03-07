@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="egoumall-content-service" />
+        <module name="egoumall-common-pojo" />
+        <module name="egoumall-common-dao" />
+        <module name="egoumall-content-interface" />
+        <module name="egoumall-manager-interface" />
+        <module name="egoumall-manager-web" />
+        <module name="egoumall-portal-web" />
+        <module name="egoumall-common-utils" />
+        <module name="egoumall-manager-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="egoumall-common" target="1.8" />
+      <module name="egoumall-common-dao" target="1.8" />
+      <module name="egoumall-common-pojo" target="1.8" />
+      <module name="egoumall-common-utils" target="1.8" />
+      <module name="egoumall-content" target="1.8" />
+      <module name="egoumall-content-interface" target="1.8" />
+      <module name="egoumall-content-service" target="1.8" />
+      <module name="egoumall-manager" target="1.8" />
+      <module name="egoumall-manager-interface" target="1.8" />
+      <module name="egoumall-manager-service" target="1.8" />
+      <module name="egoumall-manager-web" target="1.8" />
+      <module name="egoumall-parent" target="1.8" />
+      <module name="egoumall-portal-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
